@@ -10,5 +10,20 @@ This sales database is obtained from [Microsoft AdventureWorks Sample Database](
 
 ## Tools
 
-- SQL - Data Exploration
+- SQL - Data Cleaning, Preparation and Exploratory Analysis
 - Power BI - Creating Reports
+
+## Data Cleaning and Preparation
+
+This involves the following steps
+
+- The database was saved to the backup file
+- Recovering database
+- Extracting the different datasets needed for the analysis
+- Cleaning and formatting dataset
+
+## Analysis
+
+1. Identify Best-Selling Products and Customers
+
+
